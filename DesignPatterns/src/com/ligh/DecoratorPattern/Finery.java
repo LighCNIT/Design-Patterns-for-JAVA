@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package com.ligh.DecoratorPattern;
 
 public class Finery extends Person{
 	
